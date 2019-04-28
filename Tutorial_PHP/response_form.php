@@ -1,0 +1,1 @@
+Selamat <?php echo $_GET['nama']; ?> dari prodi <?php echo $_GET['prodi']; ?>
